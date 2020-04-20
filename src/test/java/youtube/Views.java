@@ -78,7 +78,7 @@ public class Views {
 		 * 
 		 * act.moveByOffset(687, 398).click().build().perform();
 		 */
-		/*----------------------------------------*/
+		/*----------------------------------*/
 		/* last line code is imp for video quality change */
 		
 		
